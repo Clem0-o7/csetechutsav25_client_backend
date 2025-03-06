@@ -22,6 +22,7 @@
   "homepage": "https://github.com/TechutsavTeam/backend25#readme",
   "dependencies": {
     "@emailjs/nodejs": "^2.2.0",
+    "backend25": "file:",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
